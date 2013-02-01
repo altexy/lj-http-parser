@@ -1,0 +1,3 @@
+- avoid direct access to bitfields by FFI
+- proper handling of repeated headers in recieved requests
+- lowercase header names
